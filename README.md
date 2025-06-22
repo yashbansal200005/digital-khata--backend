@@ -44,11 +44,11 @@ This is the backend of Digital Khata, an all-in-one customer and financial manag
 - Middleware `authUser` is used to protect private routes.
 
 🛠 Setup Instructions
-git clone https://github.com/yashbansal200005/digital-khata--backend.git
-cd digital-khata--backend
-npm install
+-git clone https://github.com/yashbansal200005/digital-khata--backend.git
+-cd digital-khata--backend
+-npm install
 
 Create a .env file and add:
-PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+-PORT=5000
+-MONGODB_URI=your_mongodb_connection_string
+-JWT_SECRET=your_jwt_secret
