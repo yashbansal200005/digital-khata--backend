@@ -2,8 +2,6 @@
 
 This is the backend of **Digital Khata**, an all-in-one customer and financial management system designed for shop owners. It is built using **Node.js**, **Express.js**, and **MongoDB**, and provides a secure RESTful API to manage customers, invoices, receipts, and shop owner accounts.
 
-🔗 **Frontend Repo (Optional):** _You can link it here if available._
-
 ---
 
 ## 🔧 Tech Stack
